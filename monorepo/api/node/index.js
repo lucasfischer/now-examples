@@ -1,3 +1,6 @@
+const demo = require('demo')
+
 module.exports = (req, res) => {
-  res.end(new Date().toString());
-};
+	demo()
+	res.end(new Date().toString())
+}

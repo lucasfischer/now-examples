@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "demo": "git+https://gitlab.com/lucas-fischer/demo"
+  }
+}
